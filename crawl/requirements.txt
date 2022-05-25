@@ -13,7 +13,7 @@ Naked==0.1.31
 pdfkit==0.6.1
 pycryptodome==3.9.7
 PyGithub==1.35
-PyJWT==1.7.1
+PyJWT==2.4.0
 PyMySQL==0.9.3
 PyYAML==5.4
 requests==2.23.0
