@@ -7,7 +7,7 @@ html5lib==0.999999999
 idna==2.9
 IPy==0.83
 Jinja2==2.10.1
-lxml==4.6.3
+lxml==4.9.1
 MarkupSafe==1.1.1
 Naked==0.1.31
 pdfkit==0.6.1
